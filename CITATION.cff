@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Written permission is required before reuse; approved use must cite this software."
+title: "X-ray Dip Classifier"
+type: software
+authors:
+  - family-names: "Varun"
+    given-names: "M."
+    affiliation: "CHRIST (Deemed to be University), Bengaluru, India"
+repository-code: "https://github.com/varunastronomy/xray-dip-classifier"
+abstract: "Interactive light-curve review and time-interval classification for X-ray dipping activity."
+version: 1.0.0
+date-released: 2026-09-27
